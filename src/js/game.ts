@@ -614,7 +614,7 @@ export class Game {
   sleuth: Sleuths;
   sleuthVoice: SleuthVoices;
   demoMode = false;
-  debugMode = false;
+  debugMode = true;
   gameIsPaused = false;
   firstRun = true;
   firstSpeak = true;
